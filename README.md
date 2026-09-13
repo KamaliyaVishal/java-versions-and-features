@@ -71,6 +71,9 @@ Whether you're preparing for interviews, learning Java history, or exploring new
 
 ## 📦 Java Versions Covered
 
+<img width="1408" height="768" alt="JavaVersionWiseFeature" src="https://github.com/user-attachments/assets/fa416ab1-7468-4568-9639-5dea9fe494d9" />
+
+---
 | Version | Release Year | Status | Key Features | Documentation |
 |---------|-------------|--------|--------------|---------------|
 | **Java 1.0** | 1996 | ✅ | Core Language, AWT, Applets | [📖 Read More](src/java1/README.md) |
