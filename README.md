@@ -1,4 +1,4 @@
-# 🚀 Java Evolution: Complete Guide from Java 1.0 to Java 25
+#🚀 Java Evolution: Complete Guide from Java 1 to Java 25
 
 <div align="center">
 
