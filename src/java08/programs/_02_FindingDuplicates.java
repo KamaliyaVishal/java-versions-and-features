@@ -1,4 +1,4 @@
-package java8.programs;
+package java08.programs;
 
 import java.util.List;
 import java.util.Map;

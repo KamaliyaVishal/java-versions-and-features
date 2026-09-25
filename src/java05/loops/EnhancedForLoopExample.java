@@ -1,4 +1,4 @@
-package java5.loops;
+package java05.loops;
 
 import java.util.*;
 

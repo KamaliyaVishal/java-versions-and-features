@@ -1,4 +1,4 @@
-package java9.variablehandles;
+package java09.variablehandles;
 
 import java.lang.invoke.MethodHandles;
 import java.lang.invoke.VarHandle;

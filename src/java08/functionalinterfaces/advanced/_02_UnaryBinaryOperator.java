@@ -1,4 +1,4 @@
-package java8.functionalinterfaces.advanced;
+package java08.functionalinterfaces.advanced;
 
 import java.util.Arrays;
 import java.util.List;

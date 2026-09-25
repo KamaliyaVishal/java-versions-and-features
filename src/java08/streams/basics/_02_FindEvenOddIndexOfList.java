@@ -1,4 +1,4 @@
-package java8.streams.basics;
+package java08.streams.basics;
 
 import java.util.ArrayList;
 import java.util.Arrays;

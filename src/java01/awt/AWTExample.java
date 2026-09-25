@@ -1,4 +1,4 @@
-package java1.awt;
+package java01.awt;
 
 import java.awt.*;
 import java.awt.event.*;

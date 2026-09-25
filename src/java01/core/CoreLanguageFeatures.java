@@ -1,4 +1,4 @@
-package java1.core;
+package java01.core;
 
 /**
  * Java 1.0 Core Language Features Demonstrates fundamental language constructs introduced in Java 1.0

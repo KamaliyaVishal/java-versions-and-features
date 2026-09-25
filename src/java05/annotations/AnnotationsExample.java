@@ -1,4 +1,4 @@
-package java5.annotations;
+package java05.annotations;
 
 import java.lang.annotation.*;
 import java.util.*;

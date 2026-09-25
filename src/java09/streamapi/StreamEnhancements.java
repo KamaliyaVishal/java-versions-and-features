@@ -1,4 +1,4 @@
-package java9.streamapi;
+package java09.streamapi;
 
 import java.util.Arrays;
 import java.util.List;

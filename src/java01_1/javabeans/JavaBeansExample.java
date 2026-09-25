@@ -1,4 +1,4 @@
-package java1_1.javabeans;
+package java01_1.javabeans;
 
 import java.io.Serializable;
 

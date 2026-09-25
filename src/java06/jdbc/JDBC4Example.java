@@ -1,4 +1,4 @@
-package java6.jdbc;
+package java06.jdbc;
 
 /**
  * Java 6 JDBC 4.0 Enhancements Example Demonstrates improved database connectivity

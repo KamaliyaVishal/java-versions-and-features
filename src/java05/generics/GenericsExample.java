@@ -1,4 +1,4 @@
-package java5.generics;
+package java05.generics;
 
 import java.util.*;
 

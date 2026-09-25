@@ -1,4 +1,4 @@
-package java8.functionalinterfaces.basic;
+package java08.functionalinterfaces.basic;
 
 import java.util.function.Consumer;
 import java.util.function.Function;

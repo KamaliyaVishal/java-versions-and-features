@@ -1,4 +1,4 @@
-package java7.literals;
+package java07.literals;
 
 /**
  * Java 7 Binary Literals and Underscores in Numeric Literals Example

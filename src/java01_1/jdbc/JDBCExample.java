@@ -1,4 +1,4 @@
-package java1_1.jdbc;
+package java01_1.jdbc;
 
 /**
  * Java 1.1 JDBC (Java Database Connectivity) Example Demonstrates basic JDBC operations

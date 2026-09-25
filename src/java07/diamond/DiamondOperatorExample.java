@@ -1,4 +1,4 @@
-package java7.diamond;
+package java07.diamond;
 
 import java.util.*;
 

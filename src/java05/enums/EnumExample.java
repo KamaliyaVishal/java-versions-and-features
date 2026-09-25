@@ -1,4 +1,4 @@
-package java5.enums;
+package java05.enums;
 
 /**
  * Java 5 Enumerations (Enum) Example Demonstrates type-safe constants

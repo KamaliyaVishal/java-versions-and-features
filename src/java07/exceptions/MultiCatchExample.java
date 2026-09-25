@@ -1,4 +1,4 @@
-package java7.exceptions;
+package java07.exceptions;
 
 import java.io.*;
 import java.sql.SQLException;

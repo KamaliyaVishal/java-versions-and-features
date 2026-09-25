@@ -1,4 +1,4 @@
-package java8.functionalinterfaces.basic;
+package java08.functionalinterfaces.basic;
 
 import javax.imageio.plugins.tiff.ExifInteroperabilityTagSet;
 import java.util.ArrayList;

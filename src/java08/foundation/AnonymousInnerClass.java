@@ -1,4 +1,4 @@
-package java8.foundation;
+package java08.foundation;
 
 /**
  * Demonstrates the use of anonymous inner classes in Java 8.

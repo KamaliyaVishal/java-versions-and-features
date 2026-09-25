@@ -1,4 +1,4 @@
-package java1_4.assertions;
+package java01_4.assertions;
 
 /**
  * Java 1.4 Assertions Example Demonstrates assertion usage

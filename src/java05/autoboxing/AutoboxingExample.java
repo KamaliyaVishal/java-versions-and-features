@@ -1,4 +1,4 @@
-package java5.autoboxing;
+package java05.autoboxing;
 
 import java.util.*;
 

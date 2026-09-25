@@ -1,4 +1,4 @@
-package java7.trywithresources;
+package java07.trywithresources;
 
 import java.io.*;
 

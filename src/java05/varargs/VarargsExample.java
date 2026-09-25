@@ -1,4 +1,4 @@
-package java5.varargs;
+package java05.varargs;
 
 /**
  * Java 5 Varargs (Variable-Length Arguments) Example Demonstrates methods with variable number of arguments

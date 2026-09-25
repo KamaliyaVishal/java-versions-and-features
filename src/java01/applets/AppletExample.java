@@ -1,8 +1,6 @@
-package java1.applets;
+package java01.applets;
 
-import java.applet.Applet;
-import java.awt.Graphics;
-import java.awt.Color;
+import java.awt.*;
 
 /**
  * Java 1.0 Applet Example Demonstrates basic applet functionality
@@ -11,15 +9,16 @@ import java.awt.Color;
  * To run as applet, create HTML file:
  * <applet code="AppletExample.class" width="300" height="200"></applet>
  */
-public class AppletExample extends Applet
+@Deprecated
+public class AppletExample //extends Applet
 {
 	private String message = "Hello from Java 1.0 Applet!";
 
 	public void init()
 	{
 		System.out.println("Applet initialized");
-		setBackground(Color.WHITE);
-		setForeground(Color.BLUE);
+		//setBackground(Color.WHITE);
+		//setForeground(Color.BLUE);
 	}
 
 	public void start()

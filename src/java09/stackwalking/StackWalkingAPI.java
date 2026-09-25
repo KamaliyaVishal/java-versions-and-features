@@ -1,4 +1,4 @@
-package java9.stackwalking;
+package java09.stackwalking;
 
 import java.lang.StackWalker;
 

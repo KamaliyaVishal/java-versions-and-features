@@ -1,4 +1,4 @@
-package java1_3.jndi;
+package java01_3.jndi;
 
 /**
  * Java 1.3 JNDI (Java Naming and Directory Interface) Example Demonstrates naming and directory services

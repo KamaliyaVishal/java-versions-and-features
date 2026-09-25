@@ -1,4 +1,4 @@
-package java5.staticimports;
+package java05.staticimports;
 
 import static java.lang.Math.*;
 import static java.lang.System.out;

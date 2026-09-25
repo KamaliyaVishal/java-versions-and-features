@@ -1,4 +1,4 @@
-package java9.deprecation;
+package java09.deprecation;
 
 /**
  * Java 9 Enhanced Deprecation

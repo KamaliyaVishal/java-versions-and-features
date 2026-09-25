@@ -1,4 +1,4 @@
-package java7.switchdemo;
+package java07.switchdemo;
 
 /**
  * Java 7 Strings in Switch Example Demonstrates string-based switch statements

@@ -1,4 +1,4 @@
-package java7.nio2;
+package java07.nio2;
 
 import java.nio.file.*;
 import java.nio.file.attribute.BasicFileAttributes;

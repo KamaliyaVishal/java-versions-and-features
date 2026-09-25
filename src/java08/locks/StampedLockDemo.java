@@ -1,4 +1,4 @@
-package java8.locks;
+package java08.locks;
 
 import java.util.concurrent.locks.StampedLock;
 

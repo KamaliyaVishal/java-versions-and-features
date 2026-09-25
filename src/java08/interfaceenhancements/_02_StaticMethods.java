@@ -1,4 +1,4 @@
-package java8.interfaceenhancements;
+package java08.interfaceenhancements;
 
 /**
  * Static Methods in Interfaces

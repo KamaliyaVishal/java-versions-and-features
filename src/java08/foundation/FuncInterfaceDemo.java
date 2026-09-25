@@ -1,4 +1,4 @@
-package java8.foundation;
+package java08.foundation;
 
 /**
  * Functional interface for multiplication operation.

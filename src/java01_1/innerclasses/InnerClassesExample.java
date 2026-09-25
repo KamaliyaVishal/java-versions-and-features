@@ -1,4 +1,4 @@
-package java1_1.innerclasses;
+package java01_1.innerclasses;
 
 /**
  * Java 1.1 Inner Classes Example Demonstrates different types of inner classes

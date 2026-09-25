@@ -1,4 +1,4 @@
-package java9.diamondoperator;
+package java09.diamondoperator;
 
 import java.util.ArrayList;
 import java.util.List;

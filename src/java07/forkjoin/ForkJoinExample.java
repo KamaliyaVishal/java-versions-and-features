@@ -1,4 +1,4 @@
-package java7.forkjoin;
+package java07.forkjoin;
 
 import java.util.concurrent.*;
 

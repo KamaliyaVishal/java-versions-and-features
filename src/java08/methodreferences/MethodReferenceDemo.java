@@ -1,4 +1,4 @@
-package java8.methodreferences;
+package java08.methodreferences;
 
 import java.util.*;
 import java.util.function.*;

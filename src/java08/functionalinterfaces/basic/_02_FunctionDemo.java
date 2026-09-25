@@ -1,4 +1,4 @@
-package java8.functionalinterfaces.basic;
+package java08.functionalinterfaces.basic;
 
 import java.util.ArrayList;
 import java.util.Arrays;

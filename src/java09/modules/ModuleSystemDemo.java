@@ -1,4 +1,4 @@
-package java9.modules;
+package java09.modules;
 
 /**
  * Java 9 Module System (JPMS) Demo

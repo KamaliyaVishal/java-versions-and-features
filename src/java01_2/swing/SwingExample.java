@@ -1,4 +1,4 @@
-package java1_2.swing;
+package java01_2.swing;
 
 import javax.swing.*;
 import java.awt.*;

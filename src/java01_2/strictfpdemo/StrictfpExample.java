@@ -1,4 +1,4 @@
-package java1_2.strictfpdemo;
+package java01_2.strictfpdemo;
 
 /**
  * Java 1.2 Strictfp Keyword Example Demonstrates consistent floating-point calculations

@@ -1,4 +1,4 @@
-package java1.oop;
+package java01.oop;
 
 /**
  * Java 1.0 Object-Oriented Programming Concepts Demonstrates classes, objects, inheritance, and polymorphism

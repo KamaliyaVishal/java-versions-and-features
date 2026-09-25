@@ -1,4 +1,4 @@
-package java9.interfaces;
+package java09.interfaces;
 
 /**
  * Java 9 Private Methods in Interfaces

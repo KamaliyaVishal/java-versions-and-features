@@ -1,4 +1,4 @@
-package java1_1.rmi;
+package java01_1.rmi;
 
 /**
  * Java 1.1 RMI (Remote Method Invocation) Example Demonstrates distributed computing concepts

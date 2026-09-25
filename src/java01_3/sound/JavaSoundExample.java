@@ -1,4 +1,4 @@
-package java1_3.sound;
+package java01_3.sound;
 
 /**
  * Java 1.3 JavaSound API Example Demonstrates audio capabilities

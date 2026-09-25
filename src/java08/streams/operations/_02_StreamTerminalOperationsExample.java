@@ -1,4 +1,4 @@
-package java8.streams.operations;
+package java08.streams.operations;
 
 import java.util.*;
 import java.util.stream.Collectors;

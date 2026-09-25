@@ -1,4 +1,4 @@
-package java6.scripting;
+package java06.scripting;
 
 import javax.script.*;
 

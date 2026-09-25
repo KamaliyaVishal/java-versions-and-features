@@ -1,4 +1,4 @@
-package java6.compiler;
+package java06.compiler;
 
 import javax.tools.*;
 import java.util.Arrays;
