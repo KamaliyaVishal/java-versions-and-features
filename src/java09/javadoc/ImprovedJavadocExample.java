@@ -1,4 +1,4 @@
-package java9.javadoc;
+package java09.javadoc;
 
 /**
  * Java 9 Improved Javadoc Example

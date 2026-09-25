@@ -1,4 +1,4 @@
-package java1_4.logging;
+package java01_4.logging;
 
 import java.util.logging.*;
 
