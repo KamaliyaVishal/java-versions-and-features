@@ -76,16 +76,16 @@ Whether you're preparing for interviews, learning Java history, or exploring new
 ---
 | Version | Release Year | Status | Key Features | Documentation |
 |---------|-------------|--------|--------------|---------------|
-| **Java 1.0** | 1996 | ✅ | Core Language, AWT, Applets | [📖 Read More](src/java1/README.md) |
-| **Java 1.1** | 1997 | ✅ | Inner Classes, JDBC, RMI, Reflection | [📖 Read More](src/java1_1/README.md) |
-| **Java 1.2** | 1998 | ✅ | Collections Framework, Swing, strictfp | [📖 Read More](src/java1_2/README.md) |
-| **Java 1.3** | 2000 | ✅ | HotSpot JVM, JNDI, JavaSound | [📖 Read More](src/java1_3/README.md) |
-| **Java 1.4** | 2002 | ✅ | Assertions, Regex, NIO, Logging | [📖 Read More](src/java1_4/README.md) |
-| **Java 5** | 2004 | ✅ | Generics, Enums, Autoboxing, Annotations | [📖 Read More](src/java5/README.md) |
-| **Java 6** | 2006 | ✅ | Scripting API, Compiler API, JDBC 4.0 | [📖 Read More](src/java6/README.md) |
-| **Java 7** | 2011 | ✅ | Try-with-Resources, Diamond Operator, NIO.2 | [📖 Read More](src/java7/README.md) |
-| **Java 8** | 2014 | ✅ | Lambda, Streams, Optional, Date/Time API | [📖 Read More](src/java8/README.md) |
-| **Java 9** | 2017 | ✅ | Module System, JShell, HTTP/2 Client | [📖 Read More](src/java9/README.md) |
+| **Java 1.0** | 1996 | ✅ | Core Language, AWT, Applets | [📖 Read More](src/java01/README.md) |
+| **Java 1.1** | 1997 | ✅ | Inner Classes, JDBC, RMI, Reflection | [📖 Read More](src/java01_1/README.md) |
+| **Java 1.2** | 1998 | ✅ | Collections Framework, Swing, strictfp | [📖 Read More](src/java01_2/README.md) |
+| **Java 1.3** | 2000 | ✅ | HotSpot JVM, JNDI, JavaSound | [📖 Read More](src/java01_3/README.md) |
+| **Java 1.4** | 2002 | ✅ | Assertions, Regex, NIO, Logging | [📖 Read More](src/java01_4/README.md) |
+| **Java 5** | 2004 | ✅ | Generics, Enums, Autoboxing, Annotations | [📖 Read More](src/java05/README.md) |
+| **Java 6** | 2006 | ✅ | Scripting API, Compiler API, JDBC 4.0 | [📖 Read More](src/java06/README.md) |
+| **Java 7** | 2011 | ✅ | Try-with-Resources, Diamond Operator, NIO.2 | [📖 Read More](src/java07/README.md) |
+| **Java 8** | 2014 | ✅ | Lambda, Streams, Optional, Date/Time API | [📖 Read More](src/java08/README.md) |
+| **Java 9** | 2017 | ✅ | Module System, JShell, HTTP/2 Client | [📖 Read More](src/java09/README.md) |
 | **Java 10** | 2018 | ✅ | Local-Variable Type Inference (var) | [📖 Read More](src/java10/README.md) |
 | **Java 11** | 2018 | 🏆 **LTS** | HTTP Client, String Methods, JFR | [📖 Read More](src/java11/README.md) |
 | **Java 12** | 2019 | ✅ | Switch Expressions, JVM Constants API | [📖 Read More](src/java12/README.md) |
@@ -126,7 +126,7 @@ cd geeksforgeeks
 
 ```bash
 # Java 8 Lambda Expressions
-cd src/java8/foundation
+cd src/java08/foundation
 
 # Java 11 HTTP Client
 cd src/java11/httpclient
@@ -164,28 +164,28 @@ Each Java version has its own comprehensive README.md file covering:
 <details>
 <summary><b>📖 Java 1.0 - 1.4 (Foundation Years)</b></summary>
 
-- [Java 1.0](src/java1/README.md) - Core Language, OOP, AWT, Applets
-- [Java 1.1](src/java1_1/README.md) - Inner Classes, JDBC, RMI, Reflection
-- [Java 1.2](src/java1_2/README.md) - Collections, Swing, strictfp
-- [Java 1.3](src/java1_3/README.md) - HotSpot JVM, JNDI, JavaSound
-- [Java 1.4](src/java1_4/README.md) - Assertions, Regex, NIO, Logging
+- [Java 1.0](src/java01/README.md) - Core Language, OOP, AWT, Applets
+- [Java 1.1](src/java01_1/README.md) - Inner Classes, JDBC, RMI, Reflection
+- [Java 1.2](src/java01_2/README.md) - Collections, Swing, strictfp
+- [Java 1.3](src/java01_3/README.md) - HotSpot JVM, JNDI, JavaSound
+- [Java 1.4](src/java01_4/README.md) - Assertions, Regex, NIO, Logging
 
 </details>
 
 <details>
 <summary><b>📖 Java 5 - 7 (Modern Java Foundation)</b></summary>
 
-- [Java 5](src/java5/README.md) - Generics, Enums, Autoboxing, Annotations
-- [Java 6](src/java6/README.md) - Scripting API, Compiler API
-- [Java 7](src/java7/README.md) - Try-with-Resources, Diamond Operator, NIO.2
+- [Java 5](src/java05/README.md) - Generics, Enums, Autoboxing, Annotations
+- [Java 6](src/java06/README.md) - Scripting API, Compiler API
+- [Java 7](src/java07/README.md) - Try-with-Resources, Diamond Operator, NIO.2
 
 </details>
 
 <details>
 <summary><b>📖 Java 8 - 11 (Functional Programming Era)</b></summary>
 
-- [Java 8](src/java8/README.md) - Lambda, Streams, Optional, Date/Time API
-- [Java 9](src/java9/README.md) - Module System, JShell, HTTP/2 Client
+- [Java 8](src/java08/README.md) - Lambda, Streams, Optional, Date/Time API
+- [Java 9](src/java09/README.md) - Module System, JShell, HTTP/2 Client
 - [Java 10](src/java10/README.md) - Local-Variable Type Inference (var)
 - [Java 11 (LTS)](src/java11/README.md) - HTTP Client, String Methods, JFR
 
@@ -227,19 +227,19 @@ JavaVersionsandFeatures/
 ├── README.md                    # This file - Project landing page
 │
 ├── src/
-│   ├── java1/                   # Java 1.0 features and examples
+│   ├── java01/                   # Java 1.0 features and examples
 │   │   ├── README.md
 │   │   └── ...
 │   │
-│   ├── java1_1/                 # Java 1.1 features
-│   ├── java1_2/                 # Java 1.2 features
-│   ├── java1_3/                 # Java 1.3 features
-│   ├── java1_4/                 # Java 1.4 features
-│   ├── java5/                   # Java 5 features
-│   ├── java6/                   # Java 6 features
-│   ├── java7/                   # Java 7 features
-│   ├── java8/                   # Java 8 features
-│   ├── java9/                   # Java 9 features
+│   ├── java01_1/                 # Java 1.1 features
+│   ├── java01_2/                 # Java 1.2 features
+│   ├── java01_3/                 # Java 1.3 features
+│   ├── java01_4/                 # Java 1.4 features
+│   ├── java05/                   # Java 5 features
+│   ├── java06/                   # Java 6 features
+│   ├── java07/                   # Java 7 features
+│   ├── java08/                   # Java 8 features
+│   ├── java09/                   # Java 9 features
 │   ├── java10/                  # Java 10 features
 │   ├── java11/                  # Java 11 (LTS) features
 │   ├── java12/                  # Java 12 features
@@ -280,7 +280,7 @@ Runnable r1 = new Runnable() {
 Runnable r2 = () -> System.out.println("Hello");
 ```
 
-[View Full Example](src/java8/foundation/LambdaDemo.java)
+[View Full Example](src/java08/foundation/LambdaDemo.java)
 
 #### 🌟 Java 11 - HTTP Client
 ```java
